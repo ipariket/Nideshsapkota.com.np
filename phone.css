@@ -25,11 +25,13 @@ margin-left: -45px;
     align-items: center;
 }
 .item{
+        font-family: 5px;
+
     margin-left: 50px;
 }
 
 #maingif1{
-    margin-top: 930px;
+    margin-top: 940px;
 margin-left: 200px;
 }
 #social{
